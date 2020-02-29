@@ -1,3 +1,6 @@
+/*
+**PAT A1001
+*/
 #include "iostream"
 #include "string"
 #include "algorithm"
